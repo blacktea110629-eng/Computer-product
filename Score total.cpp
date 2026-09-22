@@ -6,5 +6,5 @@ using namespace std;
         cin >> ChineseScore >> EnglishScore;
         Total =ChineseScore+EnglishScore;
         cout << "Total=" << Total << endl ;
-        return 0;1
+        return 0;
     }
